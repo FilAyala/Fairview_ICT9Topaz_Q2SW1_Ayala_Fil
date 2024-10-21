@@ -1,0 +1,22 @@
+body{
+	background-color: mediumpurple;
+}
+
+img{
+	height: 1000px;
+	width: 400px;
+}
+
+h1, h4{
+	font-family: copper black;
+	background-color: darkslategrey;
+	color: white;
+}
+
+p{
+	font-family: cascadia code;
+}
+
+table, th, tr, td{
+			border:5px solid black;
+		}
